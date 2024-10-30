@@ -9,6 +9,7 @@ This project focuses on analyzing data from Cyclistic, a bike-sharing company. T
 - [Data Source](#data-source)
 - [Key Insights](#key-insights)
 - [Example Analysis](#example-analysis)
+- [Visualization](#Visualization)
 
 ---
 
@@ -88,3 +89,8 @@ plt.title('Ride Frequency by Hour (Casual vs Members)')
 plt.xlabel('Hour of the Day')
 plt.ylabel('Ride Count')
 plt.show()
+```
+## Visualization
+Here is the Dashboard created based on the analysis. `Tableau`(https://shorturl.at/rj7tr)
+
+
