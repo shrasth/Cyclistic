@@ -91,6 +91,6 @@ plt.ylabel('Ride Count')
 plt.show()
 ```
 ## Visualization
-Here is the Dashboard created based on the analysis. `Tableau`(https://shorturl.at/rj7tr)
+Here is the dashboard created based on the analysis. `Tableau`(https://shorturl.at/rj7tr)
 
 
